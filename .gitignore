@@ -1,5 +1,7 @@
 *.log
 .htaccess
+*.tar.gz
+*.zip
 sitemap.xml
 sitemap.xml.gz
 wp-config.php
