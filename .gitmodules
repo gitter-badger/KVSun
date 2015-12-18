@@ -1,0 +1,12 @@
+[submodule "fonts"]
+	path = fonts
+	url = git://github.com/shgysk8zer0/fonts.git
+[submodule "SVG-icons"]
+	path = images/SVG-icons
+	url = git://github.com/shgysk8zer0/SVG-icons.git
+[submodule "images/logos"]
+	path = images/logos
+	url = git://github.com/shgysk8zer0/logos.git
+[submodule "images/octicons"]
+	path = images/octicons
+	url = git://github.com/github/octicons.git
