@@ -17,3 +17,10 @@
 *.RTF	 diff=astextplain
 wp-content/uploads/ filter=lfs diff=lfs merge=lfs -text
 wp-content/uploads/*.png filter=lfs diff=lfs merge=lfs -text
+wp-content/uploads/2015/12 filter=lfs diff=lfs merge=lfs -text
+wp-content/uploads/2015/12/Screenshot-from-2015-11-08-180337-1024x576.png filter=lfs diff=lfs merge=lfs -text
+wp-content/uploads/2015/12/Screenshot-from-2015-11-08-180337-1200x675.png filter=lfs diff=lfs merge=lfs -text
+wp-content/uploads/2015/12/Screenshot-from-2015-11-08-180337-150x150.png filter=lfs diff=lfs merge=lfs -text
+wp-content/uploads/2015/12/Screenshot-from-2015-11-08-180337-300x169.png filter=lfs diff=lfs merge=lfs -text
+wp-content/uploads/2015/12/Screenshot-from-2015-11-08-180337-768x432.png filter=lfs diff=lfs merge=lfs -text
+wp-content/uploads/2015/12/Screenshot-from-2015-11-08-180337.png filter=lfs diff=lfs merge=lfs -text
